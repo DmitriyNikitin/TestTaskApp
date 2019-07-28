@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTaskApp</string>
+    <string name="search">Поиск</string>
+    <string name="count_tracks">Количество треков:%d</string>
+    <string name="cost_album">Стоимость альбома:%.2f руб.</string>
+    <string name="unknown_error">Возникла ошибка</string>
+    <string name="network_error">Отсутствует интернет-соединение</string>
+    <string name="empty_label">Ничего не найдено</string>
+</resources>
